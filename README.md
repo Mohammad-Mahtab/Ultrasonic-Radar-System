@@ -44,4 +44,4 @@ This project simulates a real-time **ultrasonic radar system** using an **Arduin
 | Arduino D8 | Servo signal |
 | 5V / GND | Power for sensor and servo |
 
-![Circuit img](Sonar Circuit.png)
+![Circuit img](Sonar_Circuit.png)
